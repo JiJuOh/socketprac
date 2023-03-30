@@ -1,3 +1,3 @@
 #Noom
 
-Zoom Clone using NodeJS, WebRTC and Websockets.
+chat program practice using NodeJS, WebRTC and Websockets.
